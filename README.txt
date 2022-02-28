@@ -2,6 +2,7 @@
 This repository contains the source code and data files used in the experiments reported in the following paper:
 
 V. R. Hananto, U Serdült, V. Kryssanov, "A Text Segmentation Approach for Automated Annotation of Online Customer Reviews, based on Topic Modeling"
+(under review, will be updated when the paper is published)
 
 Please see the paper for details of the algorithms and the experiments. 
 
