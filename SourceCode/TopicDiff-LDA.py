@@ -181,7 +181,6 @@ def Segmentation(i,t):
     print("Iteration: "+str(i)+", t: "+str(t))
     with open('segment.json', 'w') as f:
         f.write("\n")
-    doc_split = []
     for nmr in range(len(df)):
         #print(nmr)
         targets = [] #segment_length
