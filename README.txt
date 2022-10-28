@@ -1,8 +1,7 @@
 # TopicDiff-LDA
 This repository contains the source code and data files used in the experiments reported in the following paper:
 
-V. R. Hananto, U Serdült, V. Kryssanov, "A Text Segmentation Approach for Automated Annotation of Online Customer Reviews, based on Topic Modeling"
-(under review, will be updated when the paper is published)
+Hananto, V.R.; Serdült, U.; Kryssanov, V. A Text Segmentation Approach for Automated Annotation of Online Customer Reviews, Based on Topic Modeling. Appl. Sci. 2022, 12, 3412. https://doi.org/10.3390/app12073412
 
 Please see the paper for details of the algorithms and the experiments. 
 
